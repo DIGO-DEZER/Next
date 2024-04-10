@@ -18,7 +18,9 @@ export default function Header() {
             </div>
             <div className="absolute inset-y-0 right-0 flex items-center pr-2 sm:static sm:inset-auto sm:ml-6 sm:pr-0">
               <div className="relative">
-                <Button className="primary-gradiant">Nous-contactez</Button>
+                <a href="https://prodigecom.com" className="">
+                  <Button className="primary-gradient">Retour sur le site</Button>
+                </a>
               </div>
             </div>
           </div>
